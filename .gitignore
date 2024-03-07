@@ -1,0 +1,6 @@
+!/.htaccess
+!/wp-includes/
+!/wp-content/
+!/wp-admin/
+.git
+.idea
