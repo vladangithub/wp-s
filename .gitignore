@@ -1,6 +1,8 @@
 /.htaccess
 /wp-includes/
-/wp-content/
+
 /wp-admin/
 .git
 .idea
+
+/wp-content/themes/twentytwentyfour/
