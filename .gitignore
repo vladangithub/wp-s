@@ -1,6 +1,6 @@
-!/.htaccess
-!/wp-includes/
-!/wp-content/
-!/wp-admin/
+/.htaccess
+/wp-includes/
+/wp-content/
+/wp-admin/
 .git
 .idea
